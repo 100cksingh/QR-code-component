@@ -11,19 +11,7 @@
      display: flex;
      align-items: center;
      justify-content: center;
-    
-    /* align-items: center;
-    direction: ltr; */
-    /* position: absolute; */
-    /* top: -9999px;
-    left: -9999px; */
-    /* display: flex; */
-    /* padding: 10px 10px 10px 10px ;
     margin: 10px 10px 10px 10px ;
-  /* margin: 5px 5px 5px 5px ; */
-  /* margin: 15px 20px 10px 15px; */
-
-/*  
   display: flex;
   flex-wrap: wrap;
   flex-direction: column; */
@@ -33,15 +21,9 @@
     width:230px ;
     height: 360px;
     background: hsl(0, 0%, 100%);
-    /* display: flex; */
     align-items: center;
     justify-content: center;
     border-radius:10px;
-
-    /* align-items: center;
-align-content: center; */
-/* padding: 1px 20px 20px 20px;
-margin: 100px 100px 100px 400px ; */
  }
  .text1{
     font-size: 15px;
@@ -53,17 +35,11 @@ p{
     font-size: 15px;
     font-weight:700px;
     font-family: 'Ubuntu', sans-serif;
-    /* border-radius:30px;
- padding: 5px 5px 5px 5px;
- margin: 5px 5px 5px 5px; */
 }
 
 .image{
  padding: 5px 0px 10px 10px ;
  margin: 5px 0px 10px 10px ;
  border-radius:10px;
- /* width: 180px;
- height: 200px; */
- /* width="180px" height="200px" */
 
 }
